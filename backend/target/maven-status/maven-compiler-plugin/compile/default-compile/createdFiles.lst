@@ -1,0 +1,13 @@
+com\campusconnect\AuthWebConfig.class
+com\campusconnect\UserRepository.class
+com\campusconnect\JwtUtil.class
+com\campusconnect\HackathonDetailView.class
+com\campusconnect\HackathonDetail.class
+com\campusconnect\AttendeeView.class
+com\campusconnect\AuthInterceptor.class
+com\campusconnect\UserView.class
+com\campusconnect\SignUpRequest.class
+com\campusconnect\AuthController.class
+com\campusconnect\HackathonRegRequest.class
+com\campusconnect\HackathonDetailRepository.class
+com\campusconnect\SignInRequest.class
